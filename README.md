@@ -15,7 +15,6 @@ You've been contracted by a restaurant to start building out their website. Befo
 
 Using VSCode and Command Line:
 
-
 1. Fork the repo
 2. Go into canvas and connect your repo to codegrade
 3. Clone your forked version of the repo
